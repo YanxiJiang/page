@@ -3,7 +3,7 @@
 title: 姜延禧
 
 # Name pronunciation (optional)
-name_pronunciation: Yanxi　Ｊｉａｎｇ
+name_pronunciation: Yanxi Jiang
 
 # Full name (for SEO)
 first_name:  Yanxi
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: BEng, MRes in EEE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
