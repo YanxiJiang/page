@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 姜延禧
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yanxi　Ｊｉａｎｇ
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name:  Yanxi
+last_name: Jiang
 
 # Status emoji
 status:
@@ -100,7 +100,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Power System
         description: ''
         percent: 80
         icon: code-bracket
